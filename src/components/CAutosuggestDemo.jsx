@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import CAutosuggest from './CAutosuggest.jsx';
+import CAutosuggest from './cautosuggest/CAutosuggest';
 
 
 // Imagine you have a list of languages that you'd like to autosuggest.
